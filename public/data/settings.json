@@ -46,7 +46,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "Conecta con la comunidad y aprende nuevas cosas!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -122,7 +122,7 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
+    "city": "Santo Domingo",
     "short": "Lviv, Ukraine",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "pointer": {

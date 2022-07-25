@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Join the community, learn new things!",
+  "title": "GDG DevFest Season 2022",
+  "description": "Conecta con la comunidad y aprende nuevas cosas!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "Octubre 7-8, 2022",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -135,7 +135,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "raine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
